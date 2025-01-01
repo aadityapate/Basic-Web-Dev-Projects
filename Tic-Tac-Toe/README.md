@@ -37,7 +37,7 @@ An interactive tic-tac-toe game built using HTML, CSS, and JavaScript. Players c
 
 ```
 tic-tac-toe-web-app/
-├── index.html      # Main HTML file
+├── main.html      # Main HTML file
 ├── styles.css      # CSS file for styling the game
 ├── script.js       # JavaScript file for game functionality
 └── README.md       # Project documentation

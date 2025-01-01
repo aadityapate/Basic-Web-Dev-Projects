@@ -38,6 +38,9 @@ An interactive, responsive navigation menu that dynamically changes its style ba
 ```
 interactive-nav-menu/
 ├── Index.html                        # Main HTML file
+├──├──About.html                      ├──# Sub-File
+├──├──Contact.html                    ├──# Sub-File
+├──├──Services.html                   ├──# Sub-File
 ├── Styles-I.css & Styles-II.css      # CSS file for styling the menu
 ├── Script.js                         # JavaScript file for interactivity
 └── README.md                         # Project documentation

@@ -35,7 +35,7 @@ A simple and interactive stopwatch web application built using HTML, CSS, and Ja
 
 ```
 stopwatch-web-app/
-├── index.html      # Main HTML file
+├── main.html      # Main HTML file
 ├── styles.css      # CSS file for styling the application
 ├── script.js       # JavaScript file for functionality
 └── README.md       # Project documentation
